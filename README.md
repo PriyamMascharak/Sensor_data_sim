@@ -29,6 +29,8 @@ The best data structure to implement this is an ArrayList (dynamic array). Since
 
 We use the `srand()` and `rand()` functions to initialize and generate random values every one second.
 
+As Requested the program runs perfectly on the online c compiler
+
 ## Example Output
 
 When 50 bytes are collected:
